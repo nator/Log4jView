@@ -5,6 +5,8 @@
     <key>fileTypes</key>
     <array>
         <string>log</string>
+        <string>log.0</string>
+        <string>log.1</string>
     </array>
     <key>name</key>
     <string>Log4jView</string>
